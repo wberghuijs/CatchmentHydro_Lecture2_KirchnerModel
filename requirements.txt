@@ -1,5 +1,5 @@
 numpy
-csv
+pandas
 array
 matplotlib
 ipywidgets
